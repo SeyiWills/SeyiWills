@@ -5,6 +5,10 @@
 - [Active Directory Home Lab](https://github.com/SeyiWills/ActiveDirectoryConfiguration)
 - [SIEM-Configuration](https://github.com/SeyiWills/SIEM-Configuration)
 
+<h2> Python Scripts <h2>
+
+- [Bitcoin-USD-Script](https://github.com/SeyiWills/Python-Scripts)
+
 <h2> Certifications: <h2>
  
 - Comptia Security Plus in progress
