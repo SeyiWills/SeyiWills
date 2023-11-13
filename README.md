@@ -4,6 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/SeyiWills/ActiveDirectoryConfiguration)
 - [SIEM-Configuration](https://github.com/SeyiWills/SIEM-Configuration)
+- [Nessus-Scan](https://github.com/SeyiWills/Nessus-Scan)
 
 <h2> Python Scripts: </h2>
 
