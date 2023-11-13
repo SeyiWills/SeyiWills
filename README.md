@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/oluwaseyi-williams/"> Oluwaseyi Williams </a> </h1>
+<h1>Hi, I'm <a href="https://oluwaseyi-williams-website.com/"> Oluwaseyi Williams </a> </h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
@@ -25,7 +25,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/oluwaseyi-williams/
-[Website]: https://oluwaseyi-williams-website.com/
 
 <!--
 
