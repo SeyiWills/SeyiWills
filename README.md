@@ -13,8 +13,8 @@
 
 <h2> Certifications: </h2>
  
-- Google CyberSecurity Certification (Completed) 
-- Comptia Security Plus in progress
+- Google CyberSecurity Certification 
+- Comptia Security+
  
 
 
