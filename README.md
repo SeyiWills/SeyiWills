@@ -10,6 +10,7 @@
 
 - [Bitcoin-USD-Script](https://github.com/SeyiWills/Python-Scripts)
 - [AutoDeleteTrash-Script](https://github.com/SeyiWills/AutoDeleteTrash-Script)
+- [basic-calculator-Script](https://github.com/SeyiWills/Basic-Calculator)
 
 <h2> Certifications: </h2>
  
