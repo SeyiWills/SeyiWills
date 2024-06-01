@@ -18,6 +18,7 @@
  
 - Google CyberSecurity Certification 
 - Comptia Security+
+- CCNA (In-Progress)
  
 
 
