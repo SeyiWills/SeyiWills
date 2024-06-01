@@ -12,6 +12,7 @@
 - [AutoDeleteTrash-Script](https://github.com/SeyiWills/AutoDeleteTrash-Script)
 - [basic-calculator-Script](https://github.com/SeyiWills/Basic-Calculator)
 - [Keyword-Algorithm](https://github.com/SeyiWills/Keyword-algorithm)
+- [File-Organizer](https://github.com/SeyiWills/File-Organizer)
 
 <h2> Certifications: </h2>
  
