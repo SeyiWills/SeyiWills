@@ -13,6 +13,7 @@
 - [basic-calculator-Script](https://github.com/SeyiWills/Basic-Calculator)
 - [Keyword-Algorithm](https://github.com/SeyiWills/Keyword-algorithm)
 - [File-Organizer](https://github.com/SeyiWills/File-Organizer)
+- [Password-Generator](https://github.com/SeyiWills/Password-Generator)
 
 <h2> Certifications: </h2>
  
