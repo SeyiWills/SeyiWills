@@ -1,35 +1,27 @@
-<h1>Hi, I'm <a href="https://oluwaseyi-williams-website.com/"> Oluwaseyi Williams </a> </h1>
-
-<h2>👨‍💻 CyberSecurity Projects:</h2>
-
-- [Active Directory Home Lab](https://github.com/SeyiWills/ActiveDirectoryConfiguration)
-- [SIEM-Configuration](https://github.com/SeyiWills/SIEM-Configuration)
-- [Nessus-Scan](https://github.com/SeyiWills/Nessus-Scan)
-
-<h2> Python Scripts: </h2>
-
-- [Bitcoin-USD-Script](https://github.com/SeyiWills/Python-Scripts)
-- [AutoDeleteTrash-Script](https://github.com/SeyiWills/AutoDeleteTrash-Script)
-- [basic-calculator-Script](https://github.com/SeyiWills/Basic-Calculator)
-- [Keyword-Algorithm](https://github.com/SeyiWills/Keyword-algorithm)
-- [File-Organizer](https://github.com/SeyiWills/File-Organizer)
-- [Password-Generator](https://github.com/SeyiWills/Password-Generator)
-
-<h2> Certifications: </h2>
- 
-- Google CyberSecurity Certification 
-- Comptia Security+
-- CCNA (In-Progress)
- 
+# 💫 About Me:
+<h1>Hi, I'm <a href="https://oluwaseyi-williams-website.com/"> Oluwaseyi Williams </a> </h1><br><br><h2>👨‍💻 CyberSecurity Projects:</h2><br><br>- [Active Directory Home Lab](https://github.com/SeyiWills/ActiveDirectoryConfiguration)<br>- [SIEM-Configuration](https://github.com/SeyiWills/SIEM-Configuration)<br>- [Nessus-Scan](https://github.com/SeyiWills/Nessus-Scan)<br><br><h2> Python Scripts: </h2><br><br>- [Bitcoin-USD-Script](https://github.com/SeyiWills/Python-Scripts)<br>- [AutoDeleteTrash-Script](https://github.com/SeyiWills/AutoDeleteTrash-Script)<br>- [basic-calculator-Script](https://github.com/SeyiWills/Basic-Calculator)<br>- [Keyword-Algorithm](https://github.com/SeyiWills/Keyword-algorithm)<br>- [File-Organizer](https://github.com/SeyiWills/File-Organizer)<br>- [Password-Generator](https://github.com/SeyiWills/Password-Generator)<br><br><h2> Certifications: </h2><br> <br>- Google CyberSecurity Certification <br>- Comptia Security+<br>- CCNA (In-Progress)
 
 
-<h2> 🤳 Connect with me:</h2>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seyiwills) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oluwaseyi-williams/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/5543450/seyi) 
 
-[<img align="left" alt="OluwaseyiWilliams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SeyiWills&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SeyiWills&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyiWills&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SeyiWills&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[linkedin]: https://www.linkedin.com/in/oluwaseyi-williams/
+---
+[![](https://visitcount.itsvg.in/api?id=SeyiWills&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 
